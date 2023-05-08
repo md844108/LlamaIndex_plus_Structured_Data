@@ -1,6 +1,6 @@
 # LlamaIndex_plus_Structured_Data
 ## AIM : 
-Aim : Build a which convert unstructure data into structure data and  make custom GPT-based chatbot using that structure data.
+Aim : Build a which convert unstructured data into structure data and  make custom GPT-based chatbot using that structure data.
 
 ## References
   https://gpt-index.readthedocs.io/en/latest/guides/tutorials/sql_guide.html
